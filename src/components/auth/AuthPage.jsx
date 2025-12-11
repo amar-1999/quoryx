@@ -19,7 +19,7 @@ export function AuthPage() {
         </div>
 
         <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-white to-white/60 mb-3 tracking-tight">
-          Antigravity AI
+          Quoryx AI
         </h1>
         <p className="text-slate-400 mb-10 text-lg">
           Next-generation analytics for your business.

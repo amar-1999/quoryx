@@ -65,7 +65,7 @@ export function Sidebar() {
               <BarChart3 className="text-primary-foreground h-5 w-5" />
             </div>
             <span className="font-bold text-lg tracking-tight text-foreground">
-              Antigravity AI
+              Quoryx AI
             </span>
           </div>
           <Button
